@@ -21,8 +21,7 @@ python gui.py
 ```
 
 ### ScreenShot Of The Tool
-![ScreenShot Of The Tool] 
-([https://myoctocat.com/assets/images/base-octocat.svg](https://s9.uupload.ir/files/zirzamincybery/Smtpsender.PNG))
+![ScreenShot Of The Tool](https://s9.uupload.ir/files/zirzamincybery/Smtpsender.PNG))
 
 
 ## Features And Issues
